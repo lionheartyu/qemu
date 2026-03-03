@@ -180,3 +180,6 @@ ARM-CCA/0026-hw-tpm-Add-TPM-event-log.patch
 ARM-CCA/0027-hw-core-loader-Add-fields-to-RomLoaderNotify.patch
 ARM-CCA/0028-target-arm-kvm-rme-Add-measurement-log.patch
 ARM-CCA/0029-hw-arm-virt-Add-measurement-log-for-confidential-boo.patch
+001-target-i386-Add-Hygon-Dhyana-v3-CPU-model.patch
+002-target-i386-Add-new-Hygon-Dharma-CPU-model.patch
+003-target-i386-Add-new-Hygon-Chengdu-CPU-model.patch

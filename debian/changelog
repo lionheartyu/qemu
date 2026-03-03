@@ -1,3 +1,9 @@
+qemu (1:8.2.0+ds-1deepin17) unstable; urgency=medium
+
+  * Add support for Hygon Dharma and Chengdu CPU models.
+
+ -- dongshengyuan <dongshengyuan@uniontech.com>  Tue, 03 Mar 2026 19:08:11 +0800
+
 qemu (1:8.2.0+ds-1deepin16) unstable; urgency=medium
 
   * feat: Add support for ARM-CCA confidential computing features
